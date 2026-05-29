@@ -8,8 +8,6 @@ A full‑stack **disaster evacuation routing system** that computes safe, optimi
 ✅ **Multi-stop route optimization**
 ✅ **Offline mode (PWA)**
 
-> ⚠️ All development (frontend, backend, architecture, routing engine integration, DB, optimizations, deployment) was done by **Arnav Nigam**.
-
 ---
 
 ## 🚨 Features
@@ -165,11 +163,12 @@ Tested with OSM tiles for **Central India** (Bhopal → Jabalpur, 280 km).
 
 ## 👤 Author
 
-**Arnav Nigam**
+**Soumya Pandey**
 *Architect • Backend • Frontend • DevOps • Testing*
 
 ---
 
 ## 📄 License
 
-MIT © Arnav Nigam
+MIT ©Soumya Pandey
+
